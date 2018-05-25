@@ -2,7 +2,7 @@
 
 A Deep Convolutional Neural Network to play Google Chrome's offline Dino Run game by learning action patterns from visual input using a model-less Reinforcement Learning Algorithm
 
-Accompanying code for Paperspace tutorial ["Build an AI to play Dino Run"](blog.paperspace.com/dino-run/)
+Accompanying code for Paperspace tutorial ["Build an AI to play Dino Run"](https://blog.paperspace.com/dino-run/)
 
 <br><br/>
 
