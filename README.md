@@ -23,5 +23,11 @@ Dependencies can be installed using pip install or conda install for Anaconda en
 - Python 3.6 Environment with ML libraries installed (numpy,pandas,keras,tensorflow etc)
 - Selenium
 - OpenCV
+- ChromeDriver
+
+<br><br>
+ChromeDriver can be installed by going to (link - https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
+<br>
+Change the path of chrome driver accordingly in Reinforcement Learning Dino Run.ipynb.(Default ="../chromedriver")
 
 <br/>
