@@ -26,7 +26,7 @@ Dependencies can be installed using pip install or conda install for Anaconda en
 - ChromeDriver
 
 <br><br>
-ChromeDriver can be installed by going to (https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
+ChromeDriver can be installed by going to (link - https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
 <br>
 Change the path of chrome driver accordingly in Reinforcement Learning Dino Run.ipynb.(Default ="../chromedriver")
 

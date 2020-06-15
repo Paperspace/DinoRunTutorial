@@ -1,0 +1,28 @@
+From c7b09c1a736883e8d0050297682b91e7d6bb7b15 Mon Sep 17 00:00:00 2001
+From: Kumar Shivam <kumarshivam0512@gmail.com>
+Date: Mon, 15 Jun 2020 22:42:07 +0530
+Subject: [PATCH] Create Patch File
+
+---
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/README.md b/README.md
+index b9e76c5..b57cb71 100644
+--- a/README.md
++++ b/README.md
+@@ -23,5 +23,11 @@ Dependencies can be installed using pip install or conda install for Anaconda en
+ - Python 3.6 Environment with ML libraries installed (numpy,pandas,keras,tensorflow etc)
+ - Selenium
+ - OpenCV
++- ChromeDriver
++
++<br><br>
++ChromeDriver can be installed by going to (https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
++<br>
++Change the path of chrome driver accordingly in Reinforcement Learning Dino Run.ipynb.(Default ="../chromedriver")
+ 
+ <br/>
+-- 
+2.20.1
+
